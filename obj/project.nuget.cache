@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "A/NLEt9jRlyrZsH39dS0Vkz1UnEep5jRUc9X1RF3wqnUsecdQK6wLViA3wtkgR7ZzRc45mPCqV+fpU2zPArGlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ahmed Shafin\\Downloads\\Dev-Studio\\Dev-iammdsafin\\BlogAPI\\BlogAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmed Shafin\\.nuget\\packages\\htmlagilitypack\\1.11.57\\htmlagilitypack.1.11.57.nupkg.sha512",
+    "C:\\Users\\Ahmed Shafin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Ahmed Shafin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Ahmed Shafin\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Ahmed Shafin\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Ahmed Shafin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Ahmed Shafin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
